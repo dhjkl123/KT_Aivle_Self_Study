@@ -4,4 +4,5 @@
 - multiclass_softmax.ipynb : softmax에 대한 두 API에 대한 사용법 ([[Keras] MultiClass - SoftMax](https://dhjkl123.tistory.com/264))
 - ANN(hidden_Layer).ipynb : hidden layer를 통한 ANN에 대한 사용법 ([[Keras] ANN](https://dhjkl123.tistory.com/265))
 - Flatton.ipynb : Flatton에 대한 사용법 ([[Keras] Flatton Layer](https://dhjkl123.tistory.com/266)) 
-- EarlyStopping.ipynb : EarlyStopping에 대한 설명 및 사용법(([Keras] EarlyStopping)[https://dhjkl123.tistory.com/267])
+- EarlyStopping.ipynb : EarlyStopping에 대한 설명 및 사용법 ([[Keras] EarlyStopping](https://dhjkl123.tistory.com/267))
+- Layers.ipynb : Add, Concatenate, Subtract, Average에 대한 설명 및 사용법 ([[Keras] 연산 Layer](https://dhjkl123.tistory.com/268))
