@@ -6,3 +6,4 @@
 - Flatton.ipynb : Flatton에 대한 사용법 ([[Keras] Flatton Layer](https://dhjkl123.tistory.com/266)) 
 - EarlyStopping.ipynb : EarlyStopping에 대한 설명 및 사용법 ([[Keras] EarlyStopping](https://dhjkl123.tistory.com/267))
 - Layers.ipynb : Add, Concatenate, Subtract, Average에 대한 설명 및 사용법 ([[Keras] 연산 Layer](https://dhjkl123.tistory.com/268))
+- BatchNormalization_Dropout .ipynb : BatchNormalization, Dropout 설명 및 사용법 ([[Keras] 모델 성능에 유용한 Layer](https://dhjkl123.tistory.com/manage/posts/))
